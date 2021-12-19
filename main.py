@@ -16,6 +16,8 @@ print("dan mulai berbelanja")
 jumlah_botol_susu = 173
 jumlah_telur = 1530
 print(f"jumlah botol susu {jumlah_botol_susu} botol")
+print(f"jumlah telur {jumlah_telur} butir")
+
 if jumlah_botol_susu > 0:
     print("budi mengecek harganya, dan ternyata uangnya cukup")
     if jumlah_telur == 0:
